@@ -3,9 +3,13 @@
 
 I'm a blogger and I like writing various content, from article, blog post, caption, status update to copywriting. Right now I'm learning linux and programming. Currently using debian-based distribution and code for front-end.
 
-I'm open for any:
+I'm open for any new opportunities and challenges like:
 
-Hiring | Part-time | Freelance | Remote work | Business offer | Join research | Social project | Sharing & Education
+Job hiring | Part-time | Freelance | Remote work | Business offer | Join research | Social project | Sharing & Education
+
+##### Social media
+
+I put it all here: [http://ainandoo.github.io](ainandoo.github.io)
 
 
 <!--
