@@ -1,7 +1,7 @@
 ### Hi there.. 👋
 ### Assalamu'alaikum,
 
-I'm a blogger and I like writing various content, from article, blog post, caption, status update to copywriting. Right now I'm learning linux and programming. Currently using debian-based distribution and code for front-end.
+I'm a blogger and I like writing various content, from article, blog post, caption, status update to copywriting. Right now I'm learning linux and programming. Currently using debian-based distribution and code mainly in front-end languange/tools.
 
 I'm open for any new opportunities and challenges like:
 
