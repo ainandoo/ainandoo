@@ -1,5 +1,5 @@
-### Hi there 👋
-### Assalamu'alaikum
+### Hi there.. 👋
+### Assalamu'alaikum,
 
 I'm a blogger and I like writing various content, from article, blog post, caption, status update to copywriting. Right now I'm learning linux and programming. Currently using debian-based distribution and code for front-end.
 
