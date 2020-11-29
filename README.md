@@ -1,6 +1,6 @@
 ### Hi there, Assalamu'alaikum.. 👋
 
-I'm a blogger and I like writing various content from:
+I'm a blogger and I like **writing** various content from:
 
 - Article,
 - SEO article
@@ -11,7 +11,7 @@ I'm a blogger and I like writing various content from:
 - Copywriting,
 - and many more..
 
-Right now I'm learning linux and programming.
+Right now I'm learning **linux** and **programming**.
 
 Currently using debian-based distribution and code in few language like:
 
