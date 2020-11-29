@@ -19,7 +19,7 @@ Currently using debian-based distribution and code in few language like:
 - Javascript -> scripting, front-end development
 - Dart -> Flutter mobile development
 - R -> statistics, data analysis
-- Python -> scripting, machine learning, IoT
+- Python -> scripting, IoT
 
 I'm open for any new opportunities and challenges like:
 
