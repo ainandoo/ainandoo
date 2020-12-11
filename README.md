@@ -12,8 +12,7 @@ I'm a blogger and I like **writing** various content from:
 - and many more..
 
 Working in **linux**, **digital marketing** and **programming** field.
-
-Currently using debian-based distribution and code in few language like:
+Currently using Debian-based distribution and code in few language like:
 
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
@@ -21,7 +20,7 @@ Currently using debian-based distribution and code in few language like:
 - R -> statistics, data analysis
 - Python, PHP -> scripting, blogging
 
-Currently also learning IoT and data science during spare time.
+Also learning IoT and data science during spare time.
 
 I'm open for any new opportunities and challenges like:
 
