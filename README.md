@@ -11,7 +11,7 @@ I'm a blogger and I like **writing** various content from:
 - Copywriting,
 - and many more..
 
-Working in **linux**, **digital marketing** and **programming** field.
+I'm working in **linux**, **digital marketing** and **programming** field.
 
 Currently using Debian-based distribution and code in few language like:
 
