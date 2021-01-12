@@ -1,6 +1,6 @@
 ### Hi there, Assalamu'alaikum.. 👋
 
-I'm a blogger and I like **writing** various content from:
+I call myself a blogger and I like **writing** various content from:
 
 - Article,
 - SEO article
@@ -11,9 +11,10 @@ I'm a blogger and I like **writing** various content from:
 - Copywriting,
 - and many more..
 
-I'm working in **linux**, **digital marketing** and **programming** field.
+Currently working in **linux**, **digital marketing** and **programming** field.
+Mostly in teaching and freelancing.
 
-Currently using Debian-based distribution and code in few language like:
+I'm using Debian-based linux distribution and code in few language like:
 
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
@@ -21,7 +22,7 @@ Currently using Debian-based distribution and code in few language like:
 - R -> statistics, data analysis
 - Python, PHP -> scripting, blogging
 
-Also learning IoT and data science during spare time.
+Also learning IoT, cloud computing and data science during spare time.
 
 I'm open for any new opportunities and challenges like:
 
