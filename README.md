@@ -3,7 +3,7 @@
 I call myself a blogger and I like **writing** various content from:
 
 - Article,
-- SEO article
+- SEO article,
 - Blog post, 
 - Caption, 
 - Status update,
@@ -12,6 +12,7 @@ I call myself a blogger and I like **writing** various content from:
 - and many more..
 
 Currently working in **linux**, **digital marketing** and **programming** field.
+
 Mostly in teaching and freelancing.
 
 I'm using Debian-based linux distribution and code in few language like:
