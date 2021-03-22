@@ -15,13 +15,14 @@ Currently working in **linux**, **digital marketing** and **programming** field.
 
 Mostly in teaching and freelancing.
 
-I'm using Debian-based linux distribution and code in few language like:
+I'm using Debian-based **linux** distribution (Mint) and code in few language like:
 
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
-- Dart -> Flutter mobile development
-- R -> statistics, data analysis
+- Dart -> Flutter app development
 - Python, PHP -> scripting, blogging
+- Kotlin (learning) -> android native & backend
+- R (learning) -> statistics, data analysis
 
 Also learning IoT, cloud computing and data science during spare time.
 
