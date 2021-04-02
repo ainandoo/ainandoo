@@ -1,15 +1,8 @@
 ### Hi there, Assalamu'alaikum.. 👋
 
-I call myself a blogger and I like **writing** various content from:
+I call myself a blogger and I like **writing** various content from: 
 
-- Article,
-- SEO article,
-- Blog post, 
-- Caption, 
-- Status update,
-- Poem,
-- Copywriting,
-- and many more..
+Article, SEO content, blog post, caption, status update, poem, copywriting and many more..
 
 Currently working in **linux**, **digital marketing** and **programming** field.
 
@@ -24,7 +17,7 @@ I'm using Debian-based linux distribution (Mint) and code in few language like:
 - Kotlin (learning) -> android native & backend
 - R (learning) -> statistics, data analysis
 
-Also learning IoT, cloud computing and data science during spare time.
+Also learning about IoT, cloud computing and data science during spare time.
 
 I'm open for any new opportunities and challenges like:
 
