@@ -2,7 +2,7 @@
 
 I call myself a blogger and I like **writing** various content from: 
 
-Article, SEO content, blog post, caption, status update, poem, copywriting and many more..
+    article, SEO content, blog post, caption, status update, poem, copywriting and many more..
 
 Currently working in **linux**, **digital marketing** and **programming** field.
 
