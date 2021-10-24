@@ -16,8 +16,9 @@ I'm using Debian-based linux distribution (Mint) and code in few language like:
 - Python, PHP -> scripting, blogging
 - Kotlin (learning) -> android native & backend
 - R (learning) -> statistics, data analysis
+- Ruby (learning) -> Rails app development
 
-Also learning about IoT, cloud computing and data science during spare time.
+Also learning about IoT, cloud computing, and data engineering during spare time.
 
 I'm open for any new opportunities and challenges like:
 
