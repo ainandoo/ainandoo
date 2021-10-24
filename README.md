@@ -13,10 +13,10 @@ I'm using Debian-based linux distribution (Mint) and code in few language like:
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
 - Dart -> Flutter app development
-- Python, PHP -> scripting, blogging
+- Python, PHP -> scripting, blogging, WordPress development
+- R -> statistics, data analysis
+- Ruby -> scripting, Rails development
 - Kotlin (learning) -> android native & backend
-- R (learning) -> statistics, data analysis
-- Ruby (learning) -> Rails app development
 
 Also learning about IoT, cloud computing, and data engineering during spare time.
 
