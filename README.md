@@ -1,24 +1,42 @@
-### Hi there, Assalamu'alaikum.. 👋
+### Hi there, _Assalamu'alaikum_.. 👋
 
-I call myself a blogger and I like **writing** various content from: 
+My name is Ainan.
 
-    article, SEO content, blog post, caption, status update, poem, copywriting and many more..
-
-Currently working in **linux**, **digital marketing** and **programming** field.
+Currently working in **Linux & FLOSS**, **Digital Marketing** and **Programming** field.
 
 Mostly in teaching and freelancing.
 
-I'm using Debian-based linux distribution (Mint) and code in few language like:
+In Digital Marketing, I like **writing** various content from: 
+
+    article post, SEO content, review, documentation, sripture, caption, status update, poem, copywriting and many more.
+
+In Linux and FLOSS (Free, Legal, Open Source Software), I'm familiar with Debian-based linux distribution with experience in:
+
+Linux Distribution:
+- Ubuntu LTS version (Debian-based)
+- Linux Mint (Ubuntu-based, main machine)
+- Manjaro (rolling release, Arch-based)
+
+Desktop Environment:
+- GNOME
+- KDE
+- Cinnamon
+- Mate
+- Xfce
+
+In Programming, I code in a few language like:
 
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
 - Dart -> Flutter app development
-- Python, PHP -> scripting, blogging, WordPress development
-- R -> statistics, data analysis
-- Ruby -> scripting, Rails development
-- Kotlin (learning) -> android native & backend
+- Python, PHP -> scripting, blogging, web development
+- Ruby -> scripting, Ruby on Rails development
+- Kotlin (learning) -> Android native & backend development
+- R (learning) -> statistics, data analysis
 
-Also learning about IoT, cloud computing, and data engineering during spare time.
+Not to mention any library and framework related to each language above..
+
+Also learning about IoT and DevOps during spare time.
 
 I'm open for any new opportunities and challenges like:
 
