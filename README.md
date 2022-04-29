@@ -2,15 +2,19 @@
 
 My name is Ainan.
 
-Currently working in **Linux & FLOSS**, **Digital Marketing** and **Programming** field.
+Currently working in **Linux/FLOSS**, **Digital Marketing** and **Programming** field.
 
 Mostly in teaching and freelancing.
 
-In Digital Marketing, I like **writing** various content from: 
+### In Digital Marketing, 
+
+I like **writing** various content ranging from: 
 
     article post, SEO content, review, documentation, sripture, caption, status update, poem, copywriting and many more.
 
-In Linux and FLOSS (Free, Legal, Open Source Software), I'm familiar with Debian-based linux distribution with experience in:
+### In Linux and FLOSS (Free, Legal, Open Source Software), 
+
+I'm familiar with Debian-based linux distribution with experience in:
 
 Linux Distribution:
 - Ubuntu LTS version (Debian-based)
@@ -18,13 +22,22 @@ Linux Distribution:
 - Manjaro (rolling release, Arch-based)
 
 Desktop Environment:
-- GNOME
-- KDE
 - Cinnamon
 - Mate
 - Xfce
+- (A little) GNOME
+- (A little) KDE
 
-In Programming, I code in a few language like:
+FLOSS:
+- LibreOffice (Office Application)
+- GIMP/Inkscape (Image editing)
+- OpenShot (Video editor)
+- Audacity (Audio editor)
+- and many more..
+
+### In Programming, 
+
+I code in a few language like:
 
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
@@ -36,7 +49,7 @@ In Programming, I code in a few language like:
 
 Not to mention any library and framework related to each language above..
 
-Also learning about IoT and DevOps during spare time.
+Also learning about _**IoT**_ and _**DevOps**_ during spare time.
 
 I'm open for any new opportunities and challenges like:
 
