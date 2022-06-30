@@ -42,10 +42,10 @@ I code in a few language like:
 - HTML/CSS -> web design, theme/template development
 - Javascript -> scripting, front-end development
 - Dart -> Flutter app development
-- Python, PHP -> scripting, blogging, web development
+- PHP -> scripting, blogging, web development
 - Ruby -> scripting, Ruby on Rails development
 - Kotlin (learning) -> Android native & backend development
-- R (learning) -> statistics, data analysis
+- Python (learning) -> statistics, data analysis
 
 Not to mention any library and framework related to each language above..
 
