@@ -2,11 +2,13 @@
 
 My name is Ainan. Currently working in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly in teaching and freelancing.
 
-### In Digital Marketing, 
+### 1. In Digital Marketing, 
 
-I like **writing** various content ranging from: 
+I like **writing** various content ranging from:
 
     article post, SEO content, review, documentation, sripture, caption, status update, poem, copywriting and many more.
+
+Right now, I'm trying to start a YouTube channel, Ainando Kei.
 
 ### In Linux and FLOSS (Free, Legal, Open Source Software), 
 
@@ -25,8 +27,8 @@ Desktop Environment:
 - (A little) KDE
 
 FLOSS:
-- LibreOffice (Office Application)
-- GIMP/Inkscape (Image editing)
+- LibreOffice (office application)
+- GIMP/Inkscape (image editing, vector design)
 - OpenShot (Video editor)
 - Audacity (Audio editor)
 - and many more..
@@ -42,11 +44,11 @@ Right now, I'm actively code in this language:
 5. GDScript -> Godot Engine
 6. Arduino C -> Microcontroller & IoT
 
-And still code for this language during spare time or whenever there's a need:
+And sometimes still code for this language during spare time or based on project:
 - Ruby -> Ruby on Rails framework
 - Kotlin -> Android development
 - Python -> Google Colab
-- Go -> Basic programming, web development
+- Go -> Web development
 - Java -> Android development
 - Elixir -> Phoenix framework
 
