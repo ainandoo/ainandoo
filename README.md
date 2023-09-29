@@ -10,7 +10,7 @@ I like **writing** various content ranging from:
 
 Right now, I'm trying to start a YouTube channel, Ainando Kei.
 
-### In Linux and FLOSS (Free, Legal, Open Source Software), 
+### 2. In Linux and FLOSS (Free, Legal, Open Source Software), 
 
 I'm familiar with Debian-based linux distribution with experience in:
 
@@ -33,7 +33,7 @@ FLOSS:
 - Audacity (Audio editor)
 - and many more..
 
-### In Programming, 
+### 3. In Programming, 
 
 Right now, I'm actively code in this language:
 
