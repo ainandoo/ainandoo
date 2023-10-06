@@ -1,6 +1,6 @@
 ### Hi there, _Assalamu'alaikum_.. 👋
 
-My name is Ainan. Currently working in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly in teaching and freelancing.
+My name is Ainan. Currently working in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly teaching and freelancing as a developer.
 
 ### 1. In Digital Marketing, 
 
@@ -39,18 +39,19 @@ Right now, I'm actively code in this language:
 
 1. HTML/CSS -> web design, theme/template development
 2. Javascript -> scripting, front-end development
-3. PHP -> scripting, blogging, web development
+3. PHP -> scripting, web development
 4. Dart -> Flutter app development
 5. GDScript -> Godot Engine
-6. Arduino C -> Microcontroller & IoT
+6. Arduino C -> Arduino Uno & ESP32/ESP8266
 
-And sometimes still code for this language during spare time or based on project:
+Used to code for this language, during spare time or based on project:
 - Ruby -> Ruby on Rails framework
 - Kotlin -> Android development
-- Python -> Google Colab
+- Python -> Google Colab, CLI app
 - Go -> Web development
 - Java -> Android development
 - Elixir -> Phoenix framework
+- Swift -> CLI app (wish I have a MacBook..)
 
 I'm open for any new opportunities and challenges like:
 
