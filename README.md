@@ -1,6 +1,9 @@
-### Hi there, _Assalamu'alaikum_.. 👋
+### Hello, _Assalamu'alaikum_.. 👋
 
-My name is Ainan. Currently working in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly teaching and freelancing as a developer.
+My name is Ainan. I'm currently open to work and collaboration, while still teaching once a week for private schools. 
+Also right now, I'm starting a YouTube channel: (https://youtube.com/@ainandoo)[Ainando Kei].
+
+My field is in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly teaching as mentor or freelancing as a developer.
 
 ### 1. In Digital Marketing, 
 
@@ -8,7 +11,6 @@ I like **writing** various content ranging from:
 
     article post, SEO content, review, documentation, sripture, caption, status update, poem, copywriting and many more.
 
-Right now, I'm trying to start a YouTube channel, Ainando Kei.
 
 ### 2. In Linux and FLOSS (Free, Legal, Open Source Software), 
 
@@ -18,13 +20,10 @@ Linux Distribution:
 - Ubuntu LTS version (Debian-based)
 - Linux Mint (Ubuntu-based, main machine)
 - Manjaro (rolling release, Arch-based)
+- OpenSUSE Leap / Tumbleweed
 
 Desktop Environment:
-- Cinnamon
-- Mate
-- Xfce
-- (A little) GNOME
-- (A little) KDE
+- Cinnamon, MATE, XFCE, GNOME, KDE
 
 FLOSS:
 - LibreOffice (office application)
@@ -42,15 +41,15 @@ Right now, I'm actively code in this language:
 3. PHP -> scripting, web development
 4. Dart -> Flutter app development
 5. GDScript -> Godot Engine
-6. Arduino C -> Arduino Uno & ESP32/ESP8266
+6. Arduino C -> Arduino Uno & NodeMCU ESP32/ESP8266
 
 Used to code for this language, during spare time or based on project:
 - Ruby -> Ruby on Rails framework
 - Kotlin -> Android development
-- Python -> Google Colab, CLI app
-- Go -> Web development
 - Java -> Android development
-- Elixir -> Phoenix framework
+- Python -> Google Colab, CLI app
+- Go -> Backend web development
+- Elixir -> Phoenix web framework
 - Swift -> CLI app (wish I have a MacBook..)
 
 I'm open for any new opportunities and challenges like:
