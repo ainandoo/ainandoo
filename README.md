@@ -1,6 +1,7 @@
 ### Hello, _Assalamu'alaikum_.. 👋
 
 My name is Ainan. I'm currently open to work and collaboration, while still teaching once a week for private schools. 
+
 Also right now, I'm starting a YouTube channel: [Ainando Kei](https://youtube.com/@ainandoo).
 
 My field is in **Linux/FLOSS**, **Digital Marketing** and **Programming** field. Mostly teaching as mentor or freelancing as a developer.
