@@ -1,10 +1,10 @@
 ### Hello, _Assalamu'alaikum_.. 👋
 
-My name is Ainan from Indonesia. A mentor and developer. Right now I'm teaching IT lesson once a week for private schools. 
+My name is Ainan from Indonesia, an IT **mentor** and **developer**. Right now I'm teaching IT lesson once a week for private schools. 
 
 Also right now, I'm starting a YouTube channel here: [Ainando Kei](https://youtube.com/@ainandoo).
 
-My field is in **Linux/FLOSS**, **Digital Marketing**, **Internet of Things** and **Programming** field.
+My working field is in: **Linux/FLOSS**, **Digital Marketing**, **Internet of Things**, **Programming** and **Game Development**.
 
 ### 1. In Digital Marketing, 
 
@@ -35,16 +35,16 @@ Right now, I'm actively code in this language:
 1. HTML/CSS -> web design, theme/template development
 2. Javascript -> scripting, front-end development
 3. PHP -> scripting, web development
-4. Dart -> Flutter app development
-5. GDScript -> Godot Engine
-6. Arduino C -> Arduino Uno & NodeMCU ESP32/ESP8266
+4. Python -> backend development, computer vision
+5. Arduino C -> Arduino Uno & NodeMCU
+6. Go -> backend development
 
 Used to code for this language, during spare time or based on project:
+- GDScript -> Godot Engine game development
 - Ruby -> Ruby on Rails framework
 - Kotlin -> Android development
 - Java -> Android development
-- Python -> Google Colab, CLI app
-- Go -> Backend web development
+- Dart -> Flutter app development
 - Elixir -> Phoenix web framework
 - Swift -> CLI app (wish I have a MacBook..)
 
