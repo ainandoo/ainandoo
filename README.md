@@ -13,7 +13,7 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" /> </a>
 </p>
 
-<h3>Working tools/experience</h3>
+<h3>Working experience</h3>
 <p>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/> </a>
