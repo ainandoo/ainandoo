@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ainan</h1>
-<h3 align="center">Mentor and developer from Indonesia</h3>
+<h3 align="center">Software Developer, mentor, creator from Indonesia.</h3>
 
 
 <h2 >Languages, platform and tools I use:</h2>
